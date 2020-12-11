@@ -1,6 +1,6 @@
-## Sobre o que se trata esse repositório?
+## Sobre o que se trata este repositório?
 
-Uma lista de tutoriais onde os leitores constroem diferentes rotinas do zero, utilizando a linguagem de programação Python. Os tutoriais são divididos em diferentes aplicações, algumas delas enterconectadas.
+Uma lista de tutoriais onde os leitores constroem diferentes rotinas do zero, utilizando a linguagem de programação Python. Os tutoriais são divididos em diferentes aplicações, algumas delas interconectadas.
 
 Para começar e/ou se manter atualizado, simplesmente fork este repositório.
 
