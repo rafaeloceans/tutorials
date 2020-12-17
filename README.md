@@ -14,4 +14,4 @@ Para começar e/ou se manter atualizado, simplesmente fork este repositório.
 
 ### Demais Rotinas:
 
-- Diagrama de Gantt em Python [[ipynb]](https://github.com/rdviana/tutorials-python/blob/main/notebooks/ex02/diagrama-gantt.ipynb) [[nbviewer]](https://nbviewer.jupyter.org/github/rdviana/tutorials-python/blob/main/notebooks/ex02/diagrama-gantt.ipynb)
+- Diagrama de Gantt em Python [[ipynb]](https://github.com/rdviana/tutorials-python/blob/main/notebooks/ex02/diagrama-gantt.ipynb) [[nbviewer]](https://nbviewer.jupyter.org/github/rdviana/tutorials-python/blob/main/notebooks/ex02/diagrama-gantt.ipynb) [[.py]](https://github.com/rdviana/tutorials-python/blob/main/codes/ex02/diagrama-gantt.py)
